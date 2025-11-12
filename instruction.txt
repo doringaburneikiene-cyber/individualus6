@@ -1,0 +1,6 @@
+the program must: 
+use streamlit to create a web interface.
+use  openrouter to chat with the user.
+Make sure it uses gemma3:4b model.
+Use the API key from the file api_key_openrouter.txt.
+Make sure it uses Qwen3 14B model.

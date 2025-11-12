@@ -1,0 +1,8 @@
+Programa privalo:
+Pateikti vartotojui rekomenduojamą mankštos režimą vienai savaitei (kurį vartotojas turėtų daryti kiekvieną savaitę).
+Klausti vartotojo amžių (metais)
+Klausti vartotojo žinomas sveikatos problemas
+Klausti kiek laiko vartotojas gali skirti mankštai per dieną
+Ko vartotojas siekia:
+Numesti svorio
+Priaugti raumenų
